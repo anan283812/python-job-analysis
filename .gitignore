@@ -1,0 +1,6 @@
+chromedriver.exe
+__pycache__/
+.venv/
+*.pyc
+py01.py
+book.csv
